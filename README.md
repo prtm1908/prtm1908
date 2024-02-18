@@ -20,7 +20,7 @@
 - Established dedicated Technology departments, guiding project development and task management.
 
 ### 💻 Code Kshetra, Lead Organizer
-*Oct 2023 - present*
+*Oct 2023 - Present*
 
 - Orchestrated a 500-hacker hackathon with precision, featuring innovative challenges and networking opportunities.
 - Guided participants through challenges, emphasizing the significance of AIML, Web3, and Cybersecurity.
