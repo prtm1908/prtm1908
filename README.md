@@ -11,7 +11,12 @@
 ### 🤖 Ransh Innovations Private Limited, Machine Learning Intern
 *Jan 2024 - Present*
 
-- Researched on CLIP and integrating it with other models like YOLO to retrieve similar objects and timestamps based on a text query.
+- Researched on CLIP, CLIPSeg and YOLOv5 to develop a Computer Vision + NLP model that retrieves an object within a video using
+text prompts.
+- Performed comparison research on open‑source models like Zephyr 7B Alpha and Mistral‑7B‑v0.1 to develop RAG pipelines for
+NCERT textbooks.
+- Built a news‑aggregator app that utilizes Chain‑of‑thought prompting to perform various tasks including NER and sentence‑similarity
+to finally aggregate same content and provide a summary for all news.
 
 ### 🚀 Geek Room, Co-Founder
 *Feb 2023 - Present*
