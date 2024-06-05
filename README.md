@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Pratham Batra
 
-📧 Email: prathambatra@outlook.com
+📧 Email: prathambatra19@gmail.com
 
-🌐 [LinkedIn](https://www.linkedin.com/in/pratham1908/) | [GitHub](https://github.com/prtm1908)
+🌐 [LinkedIn](https://www.linkedin.com/in/pratham1908/)
 
 ---
 
